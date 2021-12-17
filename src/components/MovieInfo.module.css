@@ -1,0 +1,26 @@
+.movieDetailsContainer {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: brown;
+  margin-bottom: 20px;
+}
+.show_hide_button {
+  max-width: 1060px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+button {
+  background: crimson;
+  color: #fff;
+  border: navajowhite;
+}
+.moviePoster {
+}
+.movieDetails {
+}

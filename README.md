@@ -1,2 +1,2 @@
-# Movie-Application
+# searchMovies
 Created with CodeSandbox
